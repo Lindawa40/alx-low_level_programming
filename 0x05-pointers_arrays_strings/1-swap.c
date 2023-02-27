@@ -1,7 +1,7 @@
 /*
- * swap_int - swap the value of two integers *a and *b
- * @a: integer one
- * @b: integer two
+ * swap_int - swap the value of two integers
+ * @a: First integer
+ * @b: Second integer
  *
  * Return: nothing
  */
