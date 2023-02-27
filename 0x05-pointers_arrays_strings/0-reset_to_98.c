@@ -1,5 +1,5 @@
 /*
- * setting the pointer to integer to 98
+ *@n: setting the pointer to integer to 98
  *
  * Return:nothing
  */
