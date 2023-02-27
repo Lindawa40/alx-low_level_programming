@@ -1,5 +1,5 @@
 /*
- * swap the value of two integers
+ * swap_int - swap the value of two integers *a and *b
  *
  * Return: Always 0
  */
