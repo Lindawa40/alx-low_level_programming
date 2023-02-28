@@ -1,3 +1,4 @@
+#include <string.h>
 /*
  * int _strlen - returns the length of a string
  * @s:string to be counted
@@ -6,5 +7,6 @@
  */
 int _strlen(char *s)
 {
-	strlen(*s);
+	char *str;
+	len=strlen(*str);
 }
