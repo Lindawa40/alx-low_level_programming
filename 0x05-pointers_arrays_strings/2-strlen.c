@@ -1,12 +1,20 @@
-#include <string.h>
-/*
- * int _strlen - returns the length of a string
- * @s:string to be counted
- *
- * Return: Always 0
- */
-int _strlen(char *s)
+#include <stdio.h>
+
+int string_length(char* str)
 {
-	char *str;
-	len=strlen(*str);
+	int length = 0;
+	while (*str != '\0')
+	{
+		length++;
+		str++;
+	}
+	return length;
+}
+
+int main()
+{
+	char* str = "Hello, World!";
+	int length = string_length(str);
+	printf("Length of string \"%s\" is %d.\n", str, length);
+	return 0;
 }
