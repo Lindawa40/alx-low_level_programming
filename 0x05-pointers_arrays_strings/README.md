@@ -3,4 +3,5 @@ I will be working with a series of pointers, arrys and strings in this folder
 1- a function that swaps the values of two integers
 2-a function that prints a string, followed by a new line, to stdout
 4-a function that prints a string, in reverse, followed by a new line
+5-a function that reverses a string
 
