@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "main.h"
-/*
+/**
  * print_rev - print string in reverse
- * @str: string to be reversed
+ * @s: string to be reversed
  *
  * Return: nothing
  */
