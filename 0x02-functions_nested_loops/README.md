@@ -30,4 +30,6 @@ I will be showing how to use nested loops in various programs
 9-a function that prints the 9 times table, starting with 0
 9-a function that prints the 9 times table, starting with 0
 9-a function that prints the 9 times table, starting with 0
+10-a function that adds two integers and returns the result
+11- a function that prints all natural numbers from n to 98
 
