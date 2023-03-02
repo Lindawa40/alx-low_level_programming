@@ -7,17 +7,12 @@
  */
 void print_to_98(int n)
 {
-	while (n <= 98)
+	while (n >= 98)
 	{
-		for (; n >= 98; n--)
-		{
-			if (n == 98)
-			{
-				_putchar (n);
-			}
-			_putchar(n);
-		}
-		_putchar (n);
-		n++;
+		_putchar (n / 100 + '0');
+		_putchar (n / 10 + '0');
+		_putchar (n % 10 + '0');
+		n--;
 	}
+	_putchar ('\n');
 }
